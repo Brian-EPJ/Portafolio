@@ -45,6 +45,7 @@ Trabajo principalmente con **Java, Spring Boot, MySQL y Thymeleaf**, y me intere
 Este proyecto incluye varias secciones interactivas y está diseñado para mostrar conceptos aprendidos durante el módulo.  
 
 🌐 **Enlace al proyecto:** [https://brian-epj.github.io/Evaluacion_Modulo_1/index.html](https://brian-epj.github.io/Evaluacion_Modulo_1/index.html)
+🎥 **Video explicativo:** [Ver en YouTube](https://www.youtube.com/watch?v=CWvFP1qn-ho)
 
 ### Funcionalidades destacadas:
 - Navegación entre secciones (`index.html`, `amenazas.html`, `consejos.html`)  
