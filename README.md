@@ -39,3 +39,18 @@ Trabajo principalmente con **Java, Spring Boot, MySQL y Thymeleaf**, y me intere
 
 ---
 
+## 📁 Proyecto subido con GitHub Pages
+
+**Evaluación Módulo 1** – Página estática desarrollada con HTML, CSS y JavaScript.  
+Este proyecto incluye varias secciones interactivas y está diseñado para mostrar conceptos aprendidos durante el módulo.  
+
+🌐 **Enlace al proyecto:** [https://brian-epj.github.io/Evaluacion_Modulo_1/index.html](https://brian-epj.github.io/Evaluacion_Modulo_1/index.html)
+
+### Funcionalidades destacadas:
+- Navegación entre secciones (`index.html`, `amenazas.html`, `consejos.html`)  
+- Uso de CSS para efectos visuales y responsive design  
+- Interactividad con JavaScript (accordions, cards, etc.)  
+- Organización de archivos clara (`css/`, `js/`, `img/`)  
+
+> Este proyecto demuestra habilidades en desarrollo web estático y buenas prácticas de organización de archivos.
+
