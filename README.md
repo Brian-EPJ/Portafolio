@@ -17,7 +17,7 @@ Trabajo principalmente con **Java, Spring Boot, MySQL y Thymeleaf**, y me intere
 - **CMS / Plataformas Web:** WordPress  
 - **Servidores locales / stacks de desarrollo:** XAMPP  
 - **Herramientas:** Git, GitHub, Maven, Railway, Postman  
-- **Otros conocimientos:** Despliegue de aplicaciones web, documentación de proyectos, manejo de repositorios y control de versione  
+- **Otros conocimientos:** Despliegue de aplicaciones web, documentación de proyectos, manejo de repositorios y control de versiones  
 
 ---
 
